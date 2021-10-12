@@ -1,3 +1,3 @@
 # aivivn-sentiment-svm
 
-Submission for AIviVN demo contest https://www.aivivn.com/contests/1.
+Submission for AIviVN sentiment analysis contest https://www.aivivn.com/contests/1.
